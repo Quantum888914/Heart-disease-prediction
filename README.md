@@ -6,11 +6,9 @@ This project uses Machine Learning to predict the likelihood of heart disease ba
 
 Data preprocessing and cleaning
 
-Exploratory Data Analysis (EDA) with visualizations
+Machine learning model training (e.g., Logistic Regression, Random Forest)
 
-Machine learning model training (e.g., Logistic Regression, Random Forest, SVM)
-
-Model evaluation with accuracy, precision, recall, and F1-score
+Model evaluation with accuracy, precision
 
 Predictive system that takes patient health data as input
 
@@ -21,7 +19,5 @@ Python
 Pandas, NumPy
 
 Scikit-learn
-
-Matplotlib, Seaborn
 
 Google Colab
